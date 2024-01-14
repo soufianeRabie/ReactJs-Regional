@@ -1,0 +1,12 @@
+/* ListeStagiare.module.css */
+.Cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/* Add more styles as needed */
+.strechedLink {
+    text-decoration: none;
+    color: inherit;
+}

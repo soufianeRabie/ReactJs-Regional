@@ -1,0 +1,28 @@
+/* DetailsStagiare.module.css */
+.Card {
+    border: 1px solid #ddd;
+    margin: 20px;
+    width: 300px;
+}
+
+.CardBody {
+    padding: 20px;
+}
+
+.stagiare_image {
+    max-width: 100%;
+    height: 200px;
+}
+
+.card_footer {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column
+}
+
+.stagiare_nom {
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+}
