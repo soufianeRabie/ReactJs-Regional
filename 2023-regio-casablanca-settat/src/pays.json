@@ -1,0 +1,206 @@
+[
+  {
+    "code" : "ma",
+    "name" : "Morocco",
+    "continent": "africa",
+    "surfaceArea" : 446550,
+    "image" :"https://flagcdn.com/w320/ma.png" ,
+    "independentYear" : 1956,
+    "population" : 36910558,
+    "cities" : [
+      {
+        "name" : "Berrechid",
+        "district" : "casablanca-settat",
+        "population" : 200000,
+        "capital" : false
+      },
+      {
+        "name" : "Rabat",
+        "district" : "Rabat-sala-kenitra",
+        "population" : 650000,
+        "capital" : true
+      },
+      {
+        "name" : "Rabat",
+        "district" : "casablanca-settat",
+        "population" : 4000000,
+        "capital" : false
+      }
+
+    ]
+  },
+  {
+    "code": "dz",
+    "name": "Algeria",
+    "continent": "africa",
+    "surfaceArea": 2381741,
+    "image": "https://flagcdn.com/w320/dz.png",
+    "independentYear": 1962,
+    "population": 40400000,
+    "cities": [
+      {
+        "name": "Algiers",
+        "district": "Algiers",
+        "population": 2900000,
+        "capital": true
+      },
+      {
+        "name": "Oran",
+        "district": "Oran",
+        "population": 853000,
+        "capital": false
+      },
+      {
+        "name": "Constantine",
+        "district": "Constantine",
+        "population": 448000,
+        "capital": false
+      }
+    ]
+  },{
+  "code": "sa",
+  "name": "Saudi Arabia",
+  "continent": "asia",
+  "surfaceArea": 2149690,
+  "image": "https://flagcdn.com/w320/sa.png",
+  "independentYear": 1932,
+  "population": 32248200,
+  "cities": [
+    {
+      "name": "Riyadh",
+      "district": "Riyadh",
+      "population": 4205961,
+      "capital": true
+    },
+    {
+      "name": "Jeddah",
+      "district": "Makkah",
+      "population": 2867446,
+      "capital": false
+    },
+    {
+      "name": "Mecca",
+      "district": "Makkah",
+      "population": 1300000,
+      "capital": false
+    }
+  ]
+},
+  {
+    "code": "tn",
+    "name": "Tunisia",
+    "continent": "africa",
+    "surfaceArea": 163610,
+    "image": "https://flagcdn.com/w320/tn.png",
+    "independentYear": 1956,
+    "population": 11154400,
+    "cities": [
+      {
+        "name": "Tunis",
+        "district": "Tunis",
+        "population": 638845,
+        "capital": true
+      },
+      {
+        "name": "Sfax",
+        "district": "Sfax",
+        "population": 340847,
+        "capital": false
+      },
+      {
+        "name": "Kairouan",
+        "district": "Kairouan",
+        "population": 186653,
+        "capital": false
+      }
+    ]
+  },
+  {
+    "code": "eg",
+    "name": "Egypt",
+    "continent": "africa",
+    "surfaceArea": 1001450,
+    "image": "https://flagcdn.com/w320/eg.png",
+    "independentYear": 1922,
+    "population": 91250000,
+    "cities": [
+      {
+        "name": "Cairo",
+        "district": "Cairo",
+        "population": 7734614,
+        "capital": true
+      },
+      {
+        "name": "Alexandria",
+        "district": "Alexandria",
+        "population": 3811516,
+        "capital": false
+      },
+      {
+        "name": "Giza",
+        "district": "Giza",
+        "population": 2443203,
+        "capital": false
+      }
+    ]
+  },
+  {
+    "code": "es",
+    "name": "Spain",
+    "continent": "europe",
+    "surfaceArea": 505992,
+    "image": "https://flagcdn.com/w320/es.png",
+    "independentYear": 1492,
+    "population": 46733038,
+    "cities": [
+      {
+        "name": "Madrid",
+        "district": "Community of Madrid",
+        "population": 3334730,
+        "capital": true
+      },
+      {
+        "name": "Barcelona",
+        "district": "Catalonia",
+        "population": 1620343,
+        "capital": false
+      },
+      {
+        "name": "Valencia",
+        "district": "Valencian Community",
+        "population": 814208,
+        "capital": false
+      }
+    ]
+  },
+  {
+    "code": "fr",
+    "name": "France",
+    "continent": "europe",
+    "surfaceArea": 551695,
+    "image": "https://flagcdn.com/w320/fr.png",
+    "independentYear": 843,
+    "population": 67107000,
+    "cities": [
+      {
+        "name": "Paris",
+        "district": "Île-de-France",
+        "population": 2243833,
+        "capital": true
+      },
+      {
+        "name": "Marseille",
+        "district": "Provence-Alpes-Côte d'Azur",
+        "population": 870018,
+        "capital": false
+      },
+      {
+        "name": "Lyon",
+        "district": "Auvergne-Rhône-Alpes",
+        "population": 515695,
+        "capital": false
+      }
+    ]
+  }
+
+]
